@@ -1,21 +1,41 @@
-->Team Name:Vibetex 
+🩺 e-Swasthya — Nationwide Digital Health Record Management System
 
-->Team members name: 
-Shravani Kadu
-Shravan Sadawarte
-Mansi Pathak
+🧩 Problem Statement
+A nationwide Digital Health Record Management System to securely store and share patient’s medical data through a Universal Digital Health ID, ensuring easy access for doctors and patients across India while promoting healthcare accessibility and data security.
+
+🏥 Domain
+Healthcare
+
+🆔 Team Details
+
+Team ID: HC19
+Team Name: Vibetex
+Team Members:
 Nehal Sadawarte
+Shravan Sadawarte
+Mansi Pathak 
+Shravani Kadu
 
-->Project name: e-Swasthya
+🚀 Project Abstract
 
-->Project abstract:
- e-Swasthya:
-The challenge in modern healthcare lies in fragmented medical records and the lack of real-time epidemiological data for proactive public health management. e-Swasthya addresses this by proposing a unified, secure, and fully digital health ecosystem. The core solution is a Digital Health Record (DHR), which provides Aadhar/OTP-verified, centralized 24/7 access for both patients and licensed doctors, supporting essential functions like appointment management and digital prescription sharing. Crucially, the platform features an Interactive Leaflet Map  that visualizes live and simulated disease outbreaks, transforming disparate clinical data into actionable geographical insights for government and health officials. Built on React and Tailwind CSS, e-Swasthya demonstrates a scalable, mobile-responsive system ready to enhance both individual patient care and large-scale disease surveillance.
+Healthcare delivery in India faces three major issues:
 
-->Tech stack:
-Programming Language: JavaScript, Python
-Framework & Libraries: React.js, FastAPI
+Fragmented and paper-based health records.
 
-->Data Management: MongoDB
+Limited healthcare access in rural and remote regions.
 
+Lack of real-time, geo-contextual disease data for outbreak management.
 
+e-Swasthya addresses these challenges by providing a unified platform that integrates digital health records, secure access via Aadhar & OTP, real-time health mapping, AI predictions, and wearable data synchronization.
+It connects patients, doctors, and public health systems through a Universal Digital Health ID, ensuring continuous care and data-driven insights for proactive health management.
+
+⚙ Proposed Solution
+🔑 Key Modules
+
+Unified DHR — Centralized 24/7 access to all health records.
+
+Secure Access — OTP & Aadhar-based authentication.
+
+Telehealth Ready — Book appointments, share prescriptions, and upload lab reports.
+
+Health Mapping — Real-time
